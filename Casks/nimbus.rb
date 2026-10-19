@@ -1,6 +1,6 @@
 cask "nimbus" do
-  version "0.0.16-alpha"
-  sha256 "e2360f32c0e1eef59873da4f885911ae2998bc94cbbaf4ca6ddb643d39ecc073"
+  version "0.0.17-alpha"
+  sha256 "0ecbaa124a474ada6c2125cf8b827643742c192f98257d41f79dd30c10a20042"
 
   url "https://github.com/syllogismos/nimbus/releases/download/v#{version}/Nimbus-#{version}-mac-arm64.dmg"
   name "Nimbus"
